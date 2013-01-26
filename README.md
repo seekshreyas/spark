@@ -5,6 +5,8 @@ See? Here's a graph of your productivity gains after using spark: ▁▂▃▅�
 
 ## install
 
+Shreyas
+
 spark is a [shell script][bin], so drop it somewhere and make sure it's added
 to your `$PATH`. It's helpful if you have a super-neat collection of dotfiles,
 [like mine][dotfiles].
